@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
+import Starships from './components/Starships'
 
 function App() {
   let [data, setData] = useState([])
