@@ -19,5 +19,8 @@ function App() {
 return(
     <div>
         <h1>STAR WARS STARSHIPS</h1>
+        <Starships data={data} />
     </div>
 )
+}
+export default App
