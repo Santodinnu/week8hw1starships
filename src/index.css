@@ -2,9 +2,7 @@
     border:  2px solid rgb(18, 241, 218);
     display: flex;      
     justify-content: center;  
-    flex-wrap: wrap; 
-  
-   
+    flex-wrap: wrap;    
     height: 100%;
     padding: 15px;
     gap: 5px;
@@ -18,8 +16,7 @@
     text-align: center;    
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;    
     border: 2px solid black;
     color: white;
     background-color: rgb(12, 92, 106);
