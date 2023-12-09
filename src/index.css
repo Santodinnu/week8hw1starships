@@ -1,0 +1,31 @@
+.container {
+    border:  2px solid rgb(18, 241, 218);
+    display: flex;      
+    justify-content: center;  
+    flex-wrap: wrap; 
+  
+   
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+    
+  }
+  
+  .ship {
+  
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    
+    border:  2px solid black;
+    color: white;
+    background-color: rgb(12, 92, 106);
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+  }
